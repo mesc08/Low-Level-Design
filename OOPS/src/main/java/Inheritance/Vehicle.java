@@ -1,2 +1,8 @@
-package Inheritance;public interface Vehicle {
+package Inheritance;
+
+public class Vehicle {
+
+    public void applyBreak(){}
+
+
 }
